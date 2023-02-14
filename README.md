@@ -2,7 +2,7 @@
 
 Hice la carrera de Full Stack Developer en Henry y me especializé en tecnologías como JavaScript, React.js, Redux, Node.js, Express.js, Sequelize y postgreSQL.
 
-Me podés contactar por mail a juanmanesevich25@gmail.com o en linkedin https://www.linkedin.com/in/juan-manesevich-a00239186/ !
+Me podés contactar por mail a juanmanesevich25@gmail.com o en linkedin https://www.linkedin.com/in/juan-manesevich/ !
 
 <!--
 **juanmane/juanmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
